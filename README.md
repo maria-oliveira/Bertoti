@@ -1,3 +1,13 @@
+# Laboratorio de Banco de Dados III 👩‍💻
+
+## ATIVIDADE 1
+<img width="1216" height="624" alt="image" src="https://github.com/user-attachments/assets/7808e107-746c-4b9f-86ed-e5f45d340108" />
+<img width="1100" height="543" alt="image" src="https://github.com/user-attachments/assets/7695aedc-4c15-4cb2-b7bd-e8cf10bdedac" />
+
+ [Atividade](./lab3/projeto1)
+
+
+
 # ENGENHARIA DE SOFTWARE 💻
 
 ## ATIVIDADE 1
