@@ -27,10 +27,8 @@
   <a href="https://trello.com/"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-## Link do Repositório
+## Repositório do Projeto
+[Repositório do Projeto ](https://github.com/AtlazDB/Atlaz)
 ## Contribuições Pessoais
 ## Hard Skills
 ## Soft Skills
-
-
-
