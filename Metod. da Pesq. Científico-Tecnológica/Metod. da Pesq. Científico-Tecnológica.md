@@ -30,5 +30,21 @@
 ## Repositório do Projeto
 [Repositório do Projeto ](https://github.com/AtlazDB/Atlaz)
 ## Contribuições Pessoais
-## Hard Skills
-## Soft Skills
+
+<details>
+  <summary>UX/UI Design</summary>
+    Criação de todo o layout das telas
+</details>
+
+<details>
+    <summary>Criação dos protótipos no FIGMA</summary>
+  
+</details>
+
+<details>
+  <summary>Desenvolvimento do Front-end do perfil do técnico </summary>
+   
+</details>
+
+### Hard Skills
+### Soft Skills
