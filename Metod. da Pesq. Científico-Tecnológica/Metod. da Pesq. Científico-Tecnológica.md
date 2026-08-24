@@ -30,6 +30,8 @@
 ## Repositório do Projeto
 [Repositório do Projeto ](https://github.com/AtlazDB/Atlaz)
 ## Contribuições Pessoais
+Atuei como desenvolvedora front-end e designer UX, sendo responsável por todo o layout do site e por sua implementação técnica. Utilizei HTML, CSS, JavaScript e o framework Vue.js para construir a interface. No desenvolvimento, liderei a criação das telas do técnico, o que incluiu o formulário de detalhes de ocorrências, o cadastro de abastecimentos e o histórico de atendimentos. Além disso, trabalhei em colaboração com a equipe de back-end para realizar a integração completa do sistema.
+
 
 <details>
   <summary>UX/UI Design</summary>
