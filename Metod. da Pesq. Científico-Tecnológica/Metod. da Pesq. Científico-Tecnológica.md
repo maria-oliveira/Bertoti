@@ -46,7 +46,20 @@
 </details>
 
 <details>
-  <summary>Desenvolvimento do Front-end do perfil do técnico </summary>
+  <summary>Desenvolvimento do Front-end do formulário do técnico </summary>
+  <img width="1895" height="905" alt="image" src="https://github.com/user-attachments/assets/d06e0624-7e46-4f68-8d6b-34b17fd2fe43" />
+   
+</details>
+
+<details>
+  <summary>Desenvolvimento do Front-end do controle de abastecimento do técnico </summary>
+  <img width="1916" height="901" alt="image" src="https://github.com/user-attachments/assets/8b207354-e1a2-43de-936b-0fae3b2a8603" />
+   
+</details>
+
+<details>
+  <summary>Desenvolvimento do Front-end do histórico de ocorrências do técnico </summary>
+  <img width="1911" height="911" alt="image" src="https://github.com/user-attachments/assets/39dd1384-2a7a-4a35-a729-58b0a17ee2d8" />
    
 </details>
 
