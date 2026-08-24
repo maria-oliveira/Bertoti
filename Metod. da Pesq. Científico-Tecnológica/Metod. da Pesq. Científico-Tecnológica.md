@@ -66,4 +66,13 @@ Atuei como desenvolvedora front-end e designer UX, sendo responsável por todo o
 </details>
 
 ### Hard Skills
+- Javascipt: Aprimorei meus conhecimentos na estruturação do código, organização das páginas e aplicação de melhorias no layout.
+  
+- HTML: Aprimorei meus conhecimentos em HTML, principalmente no desenvolvimento e organização do código, estruturação dos layouts das páginas e identificação de melhorias que poderiam ser aplicadas.
+  
+- CSS: Desenvolvi minhas habilidades em estilização e responsividade, ajustando os layouts para aproximá-los do design desenvolvido no Figma.
+  
+- Vue.js: Aprimorei meus conhecimentos no desenvolvimento de interfaces e componentes, tornando o front-end mais organizado e dinâmico.
+  
+- Figma: Aprimorei meus conhecimentos na criação de protótipos, utilizando recursos para torná-los mais realistas e profissionais.
 ### Soft Skills
