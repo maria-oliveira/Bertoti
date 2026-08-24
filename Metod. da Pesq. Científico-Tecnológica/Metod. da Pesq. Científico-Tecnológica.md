@@ -33,7 +33,9 @@
 
 <details>
   <summary>UX/UI Design</summary>
-    Criação de todo o layout das telas
+    - Criação de todo o layout das telas.
+      <img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/5d850ff9-d5b8-44bf-982f-72f1ff656952" />
+
 </details>
 
 <details>
