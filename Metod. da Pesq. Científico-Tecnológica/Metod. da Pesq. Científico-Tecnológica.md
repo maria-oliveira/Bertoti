@@ -75,4 +75,8 @@ Atuei como desenvolvedora front-end e designer UX, sendo responsável por todo o
 - Vue.js: Aprimorei meus conhecimentos no desenvolvimento de interfaces e componentes, tornando o front-end mais organizado e dinâmico.
   
 - Figma: Aprimorei meus conhecimentos na criação de protótipos, utilizando recursos para torná-los mais realistas e profissionais.
+  
 ### Soft Skills
+- Proatividade: Precisei ser proativa para entregar as telas do front end a tempo e conseguir entregar um resultado esperado.
+
+- Comunicação: A comunicação foi essencial para que conseguissimos avançar com o projeto e alinhar as questões de integração do front end e back end.
