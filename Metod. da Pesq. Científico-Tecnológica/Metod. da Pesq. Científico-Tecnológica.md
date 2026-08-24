@@ -40,6 +40,8 @@
 
 <details>
     <summary>Criação dos protótipos no FIGMA</summary>
+    <img width="1840" height="761" alt="image" src="https://github.com/user-attachments/assets/462e16a3-bb79-466f-89cc-a7b6bcd7e7f4" />
+
   
 </details>
 
