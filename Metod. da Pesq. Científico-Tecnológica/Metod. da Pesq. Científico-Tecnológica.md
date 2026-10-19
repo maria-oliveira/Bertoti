@@ -4,6 +4,9 @@
   <img width="200" height="200" alt="WhatsApp Image 2026-05-21 at 21 15 22" src="https://github.com/user-attachments/assets/f135da30-7492-4678-9b89-d811684ec1b9" />
 </div>
 
+Sou estudante de Banco de Dados na FATEC São José dos Campos, com experiência profissional no Instituto Nacional de Pesquisas Espaciais (INPE), onde atuei com análises técnicas, simulações em Python e atividades relacionadas à comunicação via satélite.
+
+Tenho conhecimentos em desenvolvimento de software, banco de dados e análise de dados, adquiridos por meio de experiências profissionais e projetos acadêmicos. Busco aprimorar continuamente minhas habilidades e ampliar minha atuação na área de tecnologia.
 ## Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-miller-597666355/) <a href="https://github.com/maria-oliveira"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 
